@@ -1,0 +1,50 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: #646d77;
+  font-size: 16px;
+  line-height: 30px;
+  margin-bottom: 15px;
+  font-weight: normal;
+  line-height: 1.4;
+}
+a:focus,
+.button:focus {
+  text-decoration: none;
+  outline: none;
+}
+a {
+  color: #635c5c;
+}
+a:hover {
+  color: #fff;
+}
+a:focus,
+a:hover {
+  text-decoration: none;
+}
+a {
+  color: #fff;
+  outline: medium none;
+}
+.slider-area .hero__caption h1 {
+  font-weight: 700;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 25px;
+  font-size: 55px;
+  line-height: 1.2;
+}
+.slider-area .hero__img img {
+  position: relative;
+  right: -53px;
+}
+body {
+  /* background: #0a0b49; */
+  background: #2d0a31;
+}
